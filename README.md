@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael
-- 👀 I’m interested in Java, C++, IT
+- 👀 I’m interested in Java, C++, Python and IT
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
