@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael
-- 👀 I’m interested in Java, C++, Python and IT
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Java, C++, Python, C# with .NET Framework and IT
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
